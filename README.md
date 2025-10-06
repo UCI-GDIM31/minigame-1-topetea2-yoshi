@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-DorLAf)
 # minigame-1
 ## Devlog
-Write your Devlog here.
+When creating your first game, understanding how Components, GameObjects, and Scenes work together as one is important.  These terms aren't just normal words; they're the framework that helps us build our ideas into a playable experience. A Scene in Unity is basically like a terrain in a sandbox game with grassy fields, sky, and invisible boundaries that come together to form a visible world inside a virtual simulation. GameObjects are the physical elements you place in that world like platforms, coins, or the player character. And then there are the Components, which gives those GameObjects behavior and personality like collision, movement, or visual effects. Without Components, a GameObject would just be  props with no effect on a game. Without GameObjects, the scene would just be empty. And without the scene, there's nowhere for the game to exist. Overall, all three elements work together to create a game that feels more alive and playable for the people experiencing it. 
 ## Open-Source Assets
 - Starter first-person assets: https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
 - Low poly platformer kit: https://assetstore.unity.com/packages/3d/environments/lowpoly-platformer-kit-free-modular-stylized-blocks-319018 
